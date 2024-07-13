@@ -14,7 +14,7 @@ paraphrased. Furthermore, I certify that this assignment was written
 by me in its entirety.
 */
 
-#include "givenA2.h"
+#include "given.h"
 
 void readContacts(char* fileName)
 {
